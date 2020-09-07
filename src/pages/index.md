@@ -1,19 +1,21 @@
 ---
 templateKey: index-page
-title: High Density Fish Farming
-image: /img/farm_main.jpg
-heading: High Density Fish Farming
-subheading: Support sustainable fish farming with cutting edge technology
+title: Great coffee with a conscience
+image: /img/home-jumbotron.jpg
+heading: Great coffee with a conscience
+subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: RKS BioFloc
+  title: Why Kaldi
   description: >
-	RKS Biofloc is a firm established to improve the environmental control 
-	over the aquatic animal production. Biofloc culture is an innovative and
-	cost-effective technology in which toxic materials to the fish and shellfish
-	such as Nitrate, Nitrite, Ammonia can be converted to useful product like proteinaceous feed.
+    Kaldi is the coffee store for everyone who believes that great coffee
+    shouldn't just taste good, it should do good too. We source all of our beans
+    directly from small scale sustainable farmers and make sure part of the
+    profits are reinvested in their communities.
 description: >-
-  Biofloc is the technology used in aquaculture system with limited or zero water
-  exchange under high stocking density, strong aeration and biota formed by biofloc.
+  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  java’s origin and support the farmers that grew it. We take coffee production,
+  roasting and brewing seriously and we’re glad to pass that knowledge to
+  anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
