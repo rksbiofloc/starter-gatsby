@@ -5,13 +5,12 @@ image: /img/farm_main.jpg
 heading: High Density Fish Farming
 subheading: Support sustainable fish farming with cutting edge technology
 mainpitch:
-  title: RKS Biofloc
+  title: RKS BioFloc
   description: >
 	RKS Biofloc is a firm established to improve the environmental control 
 	over the aquatic animal production. Biofloc culture is an innovative and
 	cost-effective technology in which toxic materials to the fish and shellfish
-	such as Nitrate, Nitrite, Ammonia can be converted to useful product, 
-	ie., proteinaceous feed.
+	such as Nitrate, Nitrite, Ammonia can be converted to useful product like proteinaceous feed.
 description: >-
   Biofloc is the technology used in aquaculture system with limited or zero water
   exchange under high stocking density, strong aeration and biota formed by biofloc.
