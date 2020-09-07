@@ -116,3 +116,5 @@ For those interested in practical hands-on training, Khoo Eng Wah, managing dire
 ## Further information
 
 For those interested, Barkah Tri Basuki, the founder of Banglele Indonesia organises regular biofloc training programmes in Indonesia. These last a month and offer the chance to stay at a shrimp farm and learn everything about biofloc: from the basics until harvesting. According to Barak the key to fish farming with a biofloc system is discipline and patience. Besides shrimp, he and his team have extensive experience of using biofloc systems for other species including catfish, tilapia, carp and pomfret. For more information just visit their Facebook page.
+
+## Source: https://thefishsite.com/articles/ten-easy-steps-towards-biofloc-production-of-shrimp-or-tilapia

@@ -12,10 +12,8 @@ mainpitch:
     cost-effective technology in which toxic materials to the fish and shellfish
     such as Nitrate, Nitrite, Ammonia can be converted to useful product like proteinaceous feed.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Biofloc is the technology used in aquaculture system with limited or zero water
+  exchange under high stocking density, strong aeration and biota formed by biofloc.
 intro:
   blurbs:
     - image: /img/coffee.png
