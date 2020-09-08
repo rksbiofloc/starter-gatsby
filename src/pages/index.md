@@ -18,7 +18,8 @@ intro:
   blurbs:
     - image: /img/bio_cycle.png
       text: >
-        Schematic representation of how bioflocs can be implemented in aquaculture
+		Schematic representation of how bioflocs can be implemented in aquaculture
+		Schematic representation of how bioflocs can be implemented in aquaculture
 		systems. (A) Integration of bioflocs within the culture unit by using feed
 		with a relatively low N content and/or the addition of a carbon source.
 		The bioflocs consume inorganic N waste together with the carbon source,
