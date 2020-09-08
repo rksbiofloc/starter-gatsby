@@ -46,7 +46,7 @@ const Footer = class extends React.Component {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact">
-                        Contact
+                        Contact Us
                       </Link>
                     </li>
                   </ul>
@@ -60,7 +60,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
+                <a title="twitter" href="https://twitter.com/rksbiofloc">
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -68,7 +68,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://instagram.com">
+                <a title="instagram" href="https://instagram.com/rksbiofloc">
                   <img
                     src={instagram}
                     alt="Instagram"
