@@ -8,6 +8,7 @@ description: Based on interviews with some of the earliest developers and adopte
 tags:
   - biofloc
   - production systems
+  - shrimp
 ---
 The costliest factors in aquaculture are high-quality feeds, filtration systems and the investment needed for ample space to grow target species. With continuously rising production costs, farmers and researchers are looking for alternative ways to produce more seafood while utilising fewer resources.
 

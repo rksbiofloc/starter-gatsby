@@ -8,7 +8,7 @@ description: >-
 tags:
   - microbial floc
   - biofloc
-  - shrmp
+  - shrimp
   - microorganisms
   - metagenomics
 ---
