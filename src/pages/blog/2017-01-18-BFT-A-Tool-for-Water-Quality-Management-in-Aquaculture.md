@@ -2,7 +2,7 @@
 templateKey: 'blog-post'
 title: 'Biofloc Technology (BFT): A Tool for Water Quality Management in Aquaculture'
 date: 2017-01-18T10:00:00.000Z
-featuredpost: true
+featuredpost: false
 description: >-
   Biofloc technology (BFT) is considered the new “blue revolution” in aquaculture. Such technique is based on in situ microorganism production which plays three major roles: (i) maintenance of water quality, by the uptake of nitrogen compounds generating in situ microbial protein; (ii) nutrition, increasing culture feasibility by reducing feed conversion ratio (FCR) and a decrease of feed costs; and (iii) competition with pathogens. The aggregates (bioflocs) are a rich protein-lipid natural source of food available in situ 24 hours per day due to a complex interaction between organic matter, physical substrate, and large range of microorganisms. This natural productivity plays an important role recycling nutrients and maintaining the water quality. The present chapter will discuss some insights of the role of microorganisms in BFT, main water quality parameters, the importance of the correct carbon-to-nitrogen ratio in the culture media, its calculations, and different types, as well as metagenomics of microorganisms and future perspectives.
 tags:

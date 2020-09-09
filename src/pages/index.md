@@ -7,58 +7,10 @@ subheading: Support sustainable fish farming with cutting edge technology
 mainpitch:
   title: RKS BioFloc
   description: >
-    RKS Biofloc is a firm established to improve the environmental control
+    RKS Biofloc is a firm which uses technology and methods improve the environmental control
     over the aquatic animal production. Biofloc culture is an innovative and
     cost-effective technology in which toxic materials to the fish and shellfish
     such as Nitrate, Nitrite, Ammonia can be converted to useful product like proteinaceous feed.
 description: >-
-  Biofloc is the technology used in aquaculture system with limited or zero water
-  exchange under high stocking density, strong aeration and biota formed by biofloc.
-intro:
-  blurbs:
-    - image: /img/bio_cycle1.png
-      text: >
-        Schematic representation of how bioflocs can be implemented in aquaculture systems. (A) Integration of bioflocs within the culture unit by using feed with a relatively low N content and/or the addition of a carbon source. The bioflocs consume inorganic N waste together with the carbon source, thereby producing microbial biomass that can be used as a feed by the animals. (B) Use of a separate bioflocs reactor. The waste water from the culture tank is brought into the biofloc reactor, where a carbon source is added in order to stimulate biofloc growth. The water of the biofloc reactor can be recirculated into the culture tank and/or bioflocs can be harvested and used as a supplementary feed.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+  With almost seven billion people on earth, the demand for aquatic food carries on to increase and hence, expansion and intensification of aquaculture production are highly required. The prime goal of aquaculture expansion must be to produce more aquaculture products without significantly increasing the usage of the basic natural resources of water and land. The second goal is to develop sustainable aquaculture systems that will not damage the environment. The third goal is to build up systems providing an equitable cost/benefit ratio to support economic and social sustainability. All these three prerequisites for sustainable aquaculture development can be met by biofloc technology.
 ---

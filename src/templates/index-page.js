@@ -32,7 +32,7 @@ export const IndexPageTemplate = ({
           height: '150px',
           lineHeight: '1',
           justifyContent: 'space-around',
-          alignItems: 'left',
+          alignItems: 'center',
           flexDirection: 'column',
         }}
       >
@@ -84,9 +84,13 @@ export const IndexPageTemplate = ({
                       {heading}
                     </h3>
                     <p>{description}</p>
+					<div className="column has-text-centered">
+					<br/>
+					<img src="/img/bio_cycle1.png" />
+					<p>Schematic representation of how bioflocs can be implemented in aquaculture systems. (A) Integration of bioflocs within the culture unit by using feed with a relatively low N content and/or the addition of a carbon source. The bioflocs consume inorganic N waste together with the carbon source, thereby producing microbial biomass that can be used as a feed by the animals. (B) Use of a separate bioflocs reactor. The waste water from the culture tank is brought into the biofloc reactor, where a carbon source is added in order to stimulate biofloc growth. The water of the biofloc reactor can be recirculated into the culture tank and/or bioflocs can be harvested and used as a supplementary feed.</p>
+					</div>
                   </div>
                 </div>
-                <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/about">
@@ -121,9 +125,6 @@ IndexPageTemplate.propTypes = {
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
   description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
 }
 
 const IndexPage = ({ data }) => {
@@ -138,7 +139,6 @@ const IndexPage = ({ data }) => {
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
-        intro={frontmatter.intro}
       />
     </Layout>
   )
@@ -173,20 +173,6 @@ export const pageQuery = graphql`
           description
         }
         description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
-          }
-          heading
-          description
-        }
       }
     }
   }
