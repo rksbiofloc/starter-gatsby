@@ -16,7 +16,7 @@ description: >-
   exchange under high stocking density, strong aeration and biota formed by biofloc.
 intro:
   blurbs:
-    - image: /img/bio_cycle.png
+    - image: /img/bio_cycle1.png
       text: >
         Schematict into the biofloc reactor, where a carbon source is added in order to stimulate biofloc growth. The water of the biofloc reactor can be recirculated into the culture tank and/or bioflocs can be harvested and used as a supplementary feed.
     - image: /img/coffee-gear.png
