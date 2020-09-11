@@ -4,7 +4,7 @@ title: 'Biofloc Technology (BFT): A Review for Aquaculture Application and Anima
 date: 2013-04-30T15:08:00.000Z
 featuredpost: true
 featuredimage: /img/image6.png
-description: The environmental friendly aquaculture system called “Biofloc Technology (BFT)” is considered as an efficient alternative system since nutrients could be continuously recycled and reused. The sustainable approach of such system is based on growth of microorganism in the culture medium, benefited by the minimum or zero water exchange. These microorganisms (biofloc) has two major roles: (i) maintenance of water quality, by the uptake of nitrogen compounds generating “in situ” microbial protein; and (ii) nutrition, increasing culture feasibility by reducing feed conversion ratio and a decrease of feed costs.
+description: The environmental friendly aquaculture system called “Biofloc Technology (BFT)” is considered as an efficient alternative system since nutrients could be continuously recycled and reused. The sustainable approach of such system is based on growth of microorganism in the culture medium, benefited by the minimum or zero water exchange. These microorganisms (biofloc) has two major roles- (i) maintenance of water quality, by the uptake of nitrogen compounds generating “in situ” microbial protein; and (ii) nutrition, increasing culture feasibility by reducing feed conversion ratio and a decrease of feed costs.
 tags:
   - biofloc
   - aquaculture
@@ -27,6 +27,7 @@ The objective of this chapter is to review the application of Biofloc Technology
 According to, BFT was first developed in early 1970s at Ifremer-COP (French Research Institute for Exploitation of the Sea, Oceanic Center of Pacific) with different penaeid species including Penaeus monodon, Fenneropenaeus merguiensis, Litopenaeus vannamei and L. stylirostris. Such culture system was compared with an “external rumen”, but now applied for shrimp. At the same period, Ralston Purina developed a system based on nitrifying bacteria while keeping shrimp in total darkness. In connection with Aquacop, such system was applied to L. stylirostris and L. vannamei both in Crystal River (USA) and Tahiti, leding considerations on benefits of biofloc for shrimp culture. In 1980, a French scientific program ‘Ecotron’ was initiated by Ifremer to better understand such system. Several studies enabled a comprehensive approach of BFT and explained interrelationships between different compartments such as water and bacteria, as well as shrimp nutritional physiology. Also in 1980s and beginning of 1990s, Israel and USA (Waddell Mariculture Center) started R&D in BFT with tilapia and white shrimp L. vannamei, respectively, in which water limitation, environmental concerns and land costs were the main causative agents that promoted such research (Fig. 1).
 
 ![image1](/img/image1.png)
+
 Figure 1.
 Biofloc technology at Ifremer, Tahiti (A), Sopomer farm, Tahiti (B), Waddell Mariculture Center (C) and Israel (D) (Photos A and B: Gerard Cuzon; C: courtesy of Wilson Wasielesky; and D: courtesy of Yoram Avnimelech)
 
@@ -34,6 +35,7 @@ Biofloc technology at Ifremer, Tahiti (A), Sopomer farm, Tahiti (B), Waddell Mar
 Regarding to commercial application of BFT, in 1988 Sopomer farm in Tahiti (French Polynesia) using 1000m2 concrete tanks and limited water exchange achieved a world record in production (20–25 ton/ha/year with two crops). On the other hand, Belize Aquaculture farm or “BAL” (located at Belize, Central America), probably the most famous case of BFT commercial application in the world, produced around 11-26 ton/ha/cycle using 1.6 ha lined grow-out ponds. Much of know-how of running worldwide commercial scale BFT shrimp ponds is derived from BAL experience. In small-scale BFT greenhouse-based farms, Marvesta farm (located at Maryland, USA), probably is the well-known successful indoor BFT shrimp farm in USA, can produce around 45 ton of fresh never frozen shrimp per year using ~570 m3 indoor race-ways. Nowadays, BFT have being successfully expanded in large-scale shrimp farming in Asia, Latin and Central America, as well as in small-scale greenhouses in USA, South Korea, Brazil, Italy, China and others (Fig 2). In addition, many research centers and universities are intensifying R&D in BFT, mostly applied to key fields such as grow-out management, nutrition, BFT applied to reproduction, microbial ecology, biotechnology and economics.
 
 ![image2](/img/image2.png)
+
 Figure 2.
 Biofloc technology commercial-scale at BAL (A) and Malaysia (B), and pilot-scale in Mexico (C and D) (Photos A, B and D: Maurício Emerenciano; and C: courtesy of Manuel Valenzuela)
 
@@ -44,6 +46,7 @@ The particulate organic matter and other organisms in the microbial food web hav
 The consumption of biofloc by shrimp or fish has demonstrated innumerous benefits such as improvement of growth rate, decrease of FCR and associated costs in feed. Growth enhancement has been attributed to both bacterial and algae nutritional components, which up to 30% of conventional feeding ration can be lowered due to biofloc consumption in shrimp. In reference was reported that more than 29% of daily food consumed for L. vannamei could be biofloc. In tilapia, in was estimated that feed utilization is higher in BFT at a rate of 20% less than conventional water-exchange systems. Also, consumption of macroaggregates can increase nitrogen retention from added feed by 7-13%. In this context, BFT has driven opportunities to use alternative diets. Low protein feeds and feeds with alternative protein sources different than marine-based products (i.e. fishmeal, squid meal, etc) have been successfully applied in BFT, leading “green” market opportunities.
 
 ![image3](/img/image3.png)
+
 Figure 3.
 Grazers often observed in BFT such as flagellates protozoa (A), ciliates protozoa (B), nematodes (C) and copepods (D) (10x magnification) (Source: Maurício Emerenciano)
 
@@ -53,6 +56,7 @@ Regarding to maintenance of water quality, control of bacterial community over a
 The carbon sources applied in BFT are often by-products derived from human and/or animal food industry, preferentially local available. Cheap sources of carbohydrates such as molasses, glycerol and plant meals (i.e. wheat, corn, rice, tapioca, etc) will be applied before fry/post-larvae stocking and during grow-out phase, aiming to maintain a high C:N ratio (~15-20:1) and to control N compounds peaks. Also, a mix of plant meals can be pelletized (“green-pellet”) and applied into ponds; or low protein diets containing high C:N ratio can also be carried out. The carbon source serves as a substrate for operating BFT systems and production of microbial protein cells. There are many considerations for its selection such as costs, local availability, biodegradability and efficiency of bacteria assimilation. In Table 1 is summarized some studies with different species and carbon source applied in BFT system.
 
 ![chart1](/img/chart1.PNG)
+
 Table 1.
 Different carbon sources applied on BFT system
 
@@ -86,6 +90,7 @@ Stocking density has to be carefully managed, mainly in sub-adult/adult phase (i
 For fish, no literature is available regarding BFT and application in breeders. The same trend observed in penaeid shrimp might be observed in fish. The continuous consumption of diverse microbiota (biofloc) should improve nutrients transfer, gonad formation and reproduction performance in fish. Lipid is a well-known nutrient that plays a key role in reproduction of aquatic species. In tilapia, breeders fed with crude palm oil based-feed (n-6 fatty acid rich source) presented high concentration of acid arachidonic or “ARA” (C20:4 n-6) in gonads, eggs and larvae of tilapia as compared to fish oil or linseed oil-based feeds. As a result, better reproductive performance was observed in terms of higher total number of eggs per fish, larger gonad sizes, shorter latency period, inter spawning interval and higher spawning frequency. ARA is an essential fatty acid crucial in reproduction, acting as hormone precursor. In the study was found high ARA content in biofloc harvested in tilapia culture freshwater tanks. Bioflocs in freshwater bioreactors contained high ARA content using glucose and glycerol as a carbon source. These findings suggested that biofloc (according its nutritional profile, for review see section 5.0) might positively influence the reproductive performance in fish, supplying nutrients for gonad development, possibly also enhancing larval quality a posteriori. BFT in tilapia broodstock could be an effective method to increase tilapia fry production and further research is need in this field.
 
 ![image4](/img/image4.png)
+
 Figure 4.
 Spawning performance of F. duorarum (tank-reared vs biofloc) and L. stylirostris (pond-reared vs biofloc) performed in 45 and 30 days after ablation, respectively. Mean weights in parenthesis (more details in and).
 
@@ -104,6 +109,7 @@ The working mechanism of PHAs with respect to their antibacterial activity is no
 Externally, the working mechanism of biofloc microorganisms against pathogens seems to be by competition of space, substrate and nutrients. Some essentials nutrients such as nitrogen are required by both groups (i.e. heterotrophic bacteria vs Vibrio sp.) limiting their growth. Inhibiting compounds excreted by BFT microorganisms, light intensity and type of carbon source also could reduce pathogens growth. Unfortunately, limited information is available on this field. In a study with fish fingerlings was reported that tilapia (initial weight 0.98 ± 0.1g) reared under BFT limited water-exchange condition (FLOC) presented less ectoparasites in gills and ectoderm’s mucous as compared to conventional water-exchange system (CW) after 60 days (Fig 5).
 
 ![image5](/img/image5.png)
+
 Figure 5.
 Number of total ectoparasites in gills and ectoderm’s mucous of fry tilapia reared under BFT limited water-exchange condition (FLOC) and conventional water-exchange system (CW) after 60 days
 
@@ -114,6 +120,7 @@ Aquaponics is a sustainable food production system that combines a traditional a
 Aquaculture species including fish, crayfish, freshwater prawns or shrimp are usually reared in tanks and the water directed into separated race-ways of hydroponics vegetables. A worldwide well-known aquaponics system was successfully developed by University of Virgin Islands (Fig 6). Typical plants raised in aquaponics include lettuce, chard, tomato, fruits such as passion fruit, strawberry, water melon, etc.; and a large variety of spices. Size of aquaculture tanks varies according aquatic species/vegetables demand and usual shapes includes round, square or rectangular tanks.
 
 ![image6](/img/image6.png)
+
 Figure 6.
 Aquaponics system at University of Virgin Islands
 
@@ -121,6 +128,7 @@ Aquaponics system at University of Virgin Islands
 Nowadays, BFT have been successfully applied in aquaponics. The presence of rich-biota (microorganisms of biofloc) and a variety of nutrients such as micro and macronutrients originated from un-eaten or non-digested feed seems to contribute in plant nutrition. A well-known example of biofloc and aquaponics interaction was also developed by UVI. However, the application of BFT in aquaponics needs particular attention, mainly on management of solid levels in water (for review, see). High concentration of solids may cause excessive adhesion of microorganism on plants roots (biofilm), causing its damage, lowering oxygenation and poor growth. Filtering and settling devices are often needed (Fig 7).
 
 ![image7](/img/image7.png)
+
 Figure 7.
 Scheme of worldwide well-known UVI Aquaponics System
 
@@ -137,6 +145,7 @@ Biofloc meal (also called “single-celled” protein), added to compounded feed
 Nutritional composition of biofloc differs according to environmental condition, carbon source applied, TSS level, salinity, stocking density, light intensity, phytoplankton and bacteria communities and ratio, etc. Regarding to age of bioflocs, in “young” biofloc heterotrophic bacteria is mainly presented as compared to “old” biofloc dominated by fungi. In biofloc particles, protein, lipid and ash content could vary substantially (12 to 49, 0.5 to 12.5 and 13 to 46%, respectively; Table 2). The same trend occurs with fatty acids (FA) profile. Essential FA such as linoleic acid (C18:2 n-6 or LA), linolenic acid (C18:3 n-3 or ALA), arachidonic acid (C20:4 n-6 or ARA), eicosapentanoic acid (C20:5 n-3 or EPA) and docosahexaenoic acid (C22:6 n-3 or DHA), as well as sum of n-3 and sum of n-6 differ considerably between 1.5 to 28.2, 0.04 to 3.3, 0.06 to 3.55, 0.05 to 0.5, 0.05 to 0.77, 0.4 to 4.4 and 2.0 to 27.0% of total FA. Type of carbon source, freshwater or marine water and production of biofloc biomass (in bioreactors or culture tanks) definitely influence the FA profile (Table 3 and 4). Vitamin and amino acids profile from biofloc produced in large-scale commercial bioreactors in given in Table 5.
 
 ![image8](/img/image8.png)
+
 Figure 8.
 Biofloc particle (10x magnification)
 
@@ -144,6 +153,7 @@ Biofloc particle (10x magnification)
 Information is still scarce about how microorganisms profile and its nutritional composition could impact animal growth. However, is already known that microorganisms in biofloc might partially replace protein content in shrimp diets, although were not always the case. Recent studies determined how reducing the protein content of diet would affect growth performance of shrimp reared in biofloc conditions. In the study was found that at least 10% of protein content in pelletized feed can be reduced when F. paulensis postlarvae are raised in BFT conditions. In was observed that shrimp fed with less than 25% crude protein under biofloc conditions performed similarly to shrimp raised under regular clear-water intensive culture with a 37%-protein diet. The biofloc system also delivered more consistent survival rates, especially at higher density. A low-protein biofloc meal-based pellet (25% CP) was evaluated as a replacement of conventional high-protein fishmeal diet (40% CP) for L. vannamei in a relatively low temperature (25oC) under biofloc conditions. The results showed that is possible to replace 1/3 part of a conventional diet by alternative low-protein biofloc meal pellet without interfering survival and shrimp performance.
 
 ![chart2](/img/chart2.png)
+
 Table 2.
 Proximate analysis of biofloc particles in different studies.
 
@@ -153,16 +163,19 @@ Also, recent studies have been demonstrated that fishmeal in shrimp diets can be
 Regarding to biofloc meal production, one bottleneck seems to be the large amount of wet biofloc biomass required to produce 1kg of dry biofloc meal. Estimative indicates that biofloc plug in 1L settling cones contained only 1.4% of dry matter. The reference indicated that 1 kg of microbial floc could be produced per 1.49 kg of sucrose in bioreactors. Certainly more research is needed on this field. On the other hand, other applications of biofloc meal in animal industry should be evaluated, mainly considering its nutritional profile and relatively low costs as compared to other protein sources (i.e. fishmeal). In aquaculture, biofloc meal could be included into broodstock pelletized feed, prior or after eyestalk ablation. Further research is encouraged in this field.
 
 ![chart3](/img/chart3.PNG)
+
 Table 3.
 Fatty acid profile of biofloc (produced in experimental bioreactors) using different carbon source in marine water and freshwater
 
 
 ![chart4](/img/chart4.PNG)
+
 Table 4.
 Fatty acid profile of biofloc (collected in tanks) using different carbon source in marine water and freshwater
 
 
 ![chart5](/img/chart5.PNG)
+
 Table 5.
 Example of vitamin and amino acids profile from biofloc produced in large-scale commercial bioreactors.
 
