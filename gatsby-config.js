@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'RKS BioFloc',
+    title: 'RKS BioFloc Fish Farm',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'RKS Biofloc is a firm which uses technology and methods improve the environmental control over the aquatic animal production. Biofloc culture is an innovative and cost-effective technology in which toxic materials to the fish and shellfish such as Nitrate, Nitrite, Ammonia can be converted to useful product like proteinaceous feed.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
